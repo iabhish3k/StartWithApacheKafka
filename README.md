@@ -36,6 +36,5 @@ node consumer.js <GROUP_NAME>
 node producer.js
 ````
 >input for producer
-`>` deadpool south\
 `>` deadpool south
     
